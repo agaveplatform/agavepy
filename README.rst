@@ -15,7 +15,7 @@ AgavePy
     :target: https://raw.githubusercontent.com/TACC/agavepy/master/LICENSE
 
 AgavePy is an open source Python SDK that enables you to interact 
-with TapisAPI_ services using functions in your Python scripts and REPL.
+with AgavePlatform_ services using functions in your Python scripts and REPL.
 
 ************
 Installation
@@ -37,7 +37,7 @@ Install from source:
 
 .. code-block:: console
 
-    git clone https://github.com/TACC/agavepy
+    git clone https://github.com/agaveplatform/agavepy
     cd agavepy
     python setup.py install
 
@@ -45,15 +45,15 @@ Install from source:
 Usage
 *****
 
-Please consult the AgavePy_ for comprehensive configuration and 
+Please consult the |AgavePlatform| for comprehensive configuration and 
 usage information. 
 
 ************
 Contributing
 ************
 
-    * `View and file issues <https://github.com/TACC/agavepy/issues/>`_
-    * `Request access to TACC.cloud Slack <http://bit.ly/join-tapis>`_
+    * `View and file issues <https://github.com/agaveplatform/agavepy/issues/>`_
+    * `Request access to TACC.cloud Slack <https://slackin.agaveplatform.org/>`_
 
 .. Links
 
@@ -61,14 +61,6 @@ Contributing
 .. _Jupyter: https://jupyter.org/
 .. _Oauth2: https://auth0.com/docs/protocols/oauth2
 .. _PyPI: https://pypi.python.org/pypi
-.. |AgavePy| replace:: AgavePy docs
-.. _AgavePy: https://agavepy.readthedocs.io/en/latest/
-.. |TapisCLI| replace:: Tapis CLI docs
-.. _TapisCLI: https://tapis-cli.readthedocs.io/en/latest/
-.. |TapisAPI| replace:: Tapis API docs
-.. _TapisAPI: https://tacc-cloud.readthedocs.io/projects/agave/en/latest/
-.. |AbacoAPI| replace:: Abaco API docs
-.. _AbacoAPI: https://tacc-cloud.readthedocs.io/projects/abaco/en/latest/
-.. |TUP| replace:: TACC User Portal
-.. _TUP: https://portal.tacc.utexas.edu/account-request
+.. |AgavePlatform| replace:: Agave Platform docs
+.. _AgavePlatform: https://docs.agaveplatform.org/
 
